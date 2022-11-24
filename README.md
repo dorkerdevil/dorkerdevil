@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dorkerdevil
-- 👀 I’m interested in vulnerability research and exploit development
+- 👀 I’m interested in vulnerability research and Threat Intel
 - 📫 How to reach me ?? - dorkerdevil@protonmail.com
 
 <!---
